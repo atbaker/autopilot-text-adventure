@@ -1,0 +1,10 @@
+{
+	"actions": [
+		{
+			"say": "You walk up to Twilio's office building. All the lights are still on but nobody seems to be around - except for Andrew, who you spot in the lobby waiting for you.\n\n\"Come on in! So glad you could make it!\" he says, ushering you into the elevator and up to Twilio's offices.\n\n\"I'm so glad you saw my tweet about an extra ticket to the SF Python holiday party. Are you excited?\""
+		},
+		{
+			"listen": true
+		}
+	]
+}

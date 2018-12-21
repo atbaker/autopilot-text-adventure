@@ -1,0 +1,10 @@
+{
+	"actions": [
+		{
+			"say": "You walk over to the pile of boxes in the corner. Most of them are sealed up, but one of them's open.\n\n\"That's the latest swag shipment, full of goodies we'll send to developers in 2019. Mostly stickers and stuff like that.\" you hear Andrew say from across the room.\n\nYou peek inside the open box - it's full of blue t-shirts with the word 'TwilioQuest' on them.\n\nDo you look at the posters, look at the refrigerator, or do something else?"
+		},
+		{
+			"listen": true
+		}
+	]
+}

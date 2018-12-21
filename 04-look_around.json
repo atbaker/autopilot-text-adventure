@@ -1,0 +1,10 @@
+{
+	"actions": [
+		{
+			"say": "You look around the kitchen. It's pretty empty - this place has cleared out for the holidays - but you see a few spots worth investigating.\n\nFirst, there are a few posters hanging on the wall by the door. Then there's a pile of boxes in the far corner. You also see a refrigerator humming in the back of the kitchen.\n\nWhere to first? The posters, the boxes, or the refrigerator?"
+		},
+		{
+			"listen": true
+		}
+	]
+}

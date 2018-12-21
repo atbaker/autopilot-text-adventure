@@ -1,0 +1,10 @@
+{
+	"actions": [
+		{
+			"say": "\"Who wouldn't be?\" he says.\n\nYou two exit the elevator and head for Twilio's kitchen. \"Need a snack before we head out? I was about to make some hot chocolate myself, if I can get this dang packet open.\"\n\nBefore you can answer, a tragedy unfolds in slow motion in front of you: after struggling to open the packet of hot chocolate powder, Andrew rips it completely in half and knocks over the mug of hot water next to him in the process. When the dust settles you see his shirt's covered in half-made hot chocolate.\n\n\"SON OF A...\" he says, before regaining his composure. \"Well, I can't go to the party like this. Can you look around for something else I can wear while I clean this up?\"\n\nSay 'look around' to survey the kitchen."
+		},
+		{
+			"listen": true
+		}
+	]
+}

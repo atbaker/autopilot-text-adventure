@@ -1,0 +1,10 @@
+{
+	 "actions": [
+			{
+				 "say": "You walk over to the posters by the door. There are three hanging on the wall, each covered in signatures with a big logo in the middle.\n\n\"Ah, those are our launch posters from this year.\" you hear Andrew say, still busy wiping up chocolate sludge by the sink.\n\n\"One poster for each of the three new products we launched at our conference, SIGNAL, in October: Flex, Autopilot, and <Pay>. They're all neat! And can you guess which one you're using right now?\"\n\nBreaking the fourth wall is fun, but you decide this conversation isn't helping you get to the party.\n\nDo you look at the boxes or the refrigerator next?"
+			},
+			{
+				 "listen": true
+			}
+	 ]
+}

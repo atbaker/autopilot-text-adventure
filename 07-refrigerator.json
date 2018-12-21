@@ -1,0 +1,10 @@
+{
+	"actions": [
+		{
+      "say": "You walk to the refrigerator in the back of the room. It's quietly humming and mostly empty: only two cans of La Croix seltzer water remain.\n\n\"Looks like it's one coconut and one pamplemousse huh?\" you hear Andrew say, looking towards the window.\n\n\"That damn debate almost tore my team apart. But look at how simple it is for those two cans right there to live in harmony.\"\n\nYou can tell these cans bring up bad memories for Andrew and decide to continue your search elsewhere.\n\nDo you look at the posters or the boxes next?"
+		},
+		{
+			"listen": true
+		}
+	]
+}

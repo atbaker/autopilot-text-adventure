@@ -1,0 +1,8 @@
+start
+begin
+go
+start game
+begin game
+start the game
+begin the game
+go game
